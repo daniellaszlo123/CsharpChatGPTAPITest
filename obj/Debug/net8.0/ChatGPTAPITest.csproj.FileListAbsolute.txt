@@ -1,0 +1,14 @@
+C:\Users\tgabo\source\repos\ChatGPTAPITest\ChatGPTAPITest\obj\Debug\net8.0\ChatGPTAPITest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgabo\source\repos\ChatGPTAPITest\ChatGPTAPITest\obj\Debug\net8.0\ChatGPTAPITest.AssemblyInfoInputs.cache
+C:\Users\tgabo\source\repos\ChatGPTAPITest\ChatGPTAPITest\obj\Debug\net8.0\ChatGPTAPITest.AssemblyInfo.cs
+C:\Users\tgabo\source\repos\ChatGPTAPITest\ChatGPTAPITest\obj\Debug\net8.0\ChatGPTAPITest.csproj.CoreCompileInputs.cache
+C:\Users\tgabo\source\repos\ChatGPTAPITest\ChatGPTAPITest\bin\Debug\net8.0\ChatGPTAPITest.exe
+C:\Users\tgabo\source\repos\ChatGPTAPITest\ChatGPTAPITest\bin\Debug\net8.0\ChatGPTAPITest.deps.json
+C:\Users\tgabo\source\repos\ChatGPTAPITest\ChatGPTAPITest\bin\Debug\net8.0\ChatGPTAPITest.runtimeconfig.json
+C:\Users\tgabo\source\repos\ChatGPTAPITest\ChatGPTAPITest\bin\Debug\net8.0\ChatGPTAPITest.dll
+C:\Users\tgabo\source\repos\ChatGPTAPITest\ChatGPTAPITest\bin\Debug\net8.0\ChatGPTAPITest.pdb
+C:\Users\tgabo\source\repos\ChatGPTAPITest\ChatGPTAPITest\obj\Debug\net8.0\ChatGPTAPITest.dll
+C:\Users\tgabo\source\repos\ChatGPTAPITest\ChatGPTAPITest\obj\Debug\net8.0\refint\ChatGPTAPITest.dll
+C:\Users\tgabo\source\repos\ChatGPTAPITest\ChatGPTAPITest\obj\Debug\net8.0\ChatGPTAPITest.pdb
+C:\Users\tgabo\source\repos\ChatGPTAPITest\ChatGPTAPITest\obj\Debug\net8.0\ChatGPTAPITest.genruntimeconfig.cache
+C:\Users\tgabo\source\repos\ChatGPTAPITest\ChatGPTAPITest\obj\Debug\net8.0\ref\ChatGPTAPITest.dll
